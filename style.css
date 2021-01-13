@@ -1,0 +1,19 @@
+*{
+    font-size: 26px;
+}
+
+
+body {
+    text-align: center;
+    background-color:rgba(255, 255, 128, .5) ;
+}
+ 
+div {
+    display: inline-block;
+    margin-top: 100px;
+}
+ 
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
